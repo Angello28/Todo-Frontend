@@ -1,7 +1,7 @@
 # Todo-Frontend
 Tugas Web oleh\
 NIM: 181110999\
-Nama: Rivaldi Lubis\
+Nama: Rivaldi Lubis
 
 Tahapan Tugas:\
 Tahap 01 - Selesai\
